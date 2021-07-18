@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = 
+"Screen width is " + screen.width;
+</script>
+
+</body>
+</html>
+
+
+
+Screen width is 1920
